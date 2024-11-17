@@ -1,4 +1,4 @@
-# EYTechathon
+# CodeCrusaders
 
 ### **Project Description**
 
