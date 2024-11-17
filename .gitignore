@@ -1,0 +1,7 @@
+venv/
+*.log
+*.pyc
+node_modules/
+*.pyd
+*.dll
+*.lib
