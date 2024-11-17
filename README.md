@@ -71,4 +71,33 @@ This *Eligibility Checker* provides a user-friendly way to streamline access to 
 
 ### Features We are Working on
 
--
+
+### **1. Automated Scheme Discovery**
+   - **Objective:** Users receive personalized recommendations for government schemes based on their profile (e.g., age, income, location, etc.).
+   - **How:** Using AI and machine learning, the platform analyzes user data to match eligible schemes, making the discovery process more efficient and personalized.
+
+### **2. Eligibility Checker**
+   - **Objective:** Instantly assess whether users qualify for a specific government scheme.
+   - **How:** The platform uses AI models trained on eligibility criteria, providing users with immediate feedback on their eligibility based on their input data.
+
+### **3. Document Verification**
+   - **Objective:** Automatically verify uploaded documents for correctness and completeness.
+   - **How:** The platform utilizes **Tesseract OCR** or similar technology to scan and validate the authenticity of documents, reducing errors and speeding up the verification process.
+
+### **4. Personalized Dashboard**
+   - **Objective:** Provide users with a centralized location to manage their applications and track the status of their schemes.
+   - **How:** The dashboard offers easy access to all their applications, notifications, and scheme updates, keeping users informed about the status of their requests.
+
+### **5. Multilingual Support**
+   - **Objective:** Cater to a diverse range of users by offering multiple language options.
+   - **How:** The platform will include a language selection feature, ensuring accessibility for people from different linguistic backgrounds.
+
+### **6. Chatbot for Assistance**
+   - **Objective:** Provide instant guidance and answer user queries related to schemes and eligibility.
+   - **How:** An AI-driven chatbot will be available for real-time interactions, offering assistance in discovering schemes, uploading documents, and clarifying doubts.
+
+### **7. Real-Time Notifications**
+   - **Objective:** Keep users informed about updates related to their scheme applications.
+   - **How:** The platform will send push notifications or emails about document status, scheme application deadlines, or eligibility changes.
+
+These features combine to make the platform a **user-friendly, AI-powered tool** that simplifies access to government schemes and enhances user experience with personalized recommendations, automation, and instant assistance.
