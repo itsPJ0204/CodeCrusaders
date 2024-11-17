@@ -1,0 +1,140 @@
+[{
+  "_id": {
+    "$oid": "673a030254c7f4946afde87b"
+  },
+  "name": "John Doe",
+  "email": "john.doe@example.com",
+  "phone": "+919876543210",
+  "age": 30,
+  "gender": "Male",
+  "location": "New Delhi",
+  "occupation": "Software Engineer",
+  "disability_status": "No",
+  "Caste": "General"
+},
+{
+  "_id": {
+    "$oid": "673a030254c7f4946afde87c"
+  },
+  "name": "Jane Smith",
+  "email": "jane.smith@example.com",
+  "phone": "+919888888888",
+  "age": 25,
+  "gender": "Female",
+  "location": "Mumbai",
+  "occupation": "Teacher",
+  "disability_status": "No",
+  "Caste": "General"
+},
+{
+  "_id": {
+    "$oid": "673a030254c7f4946afde87d"
+  },
+  "name": "Rahul Kumar",
+  "email": "rahul.kumar@example.com",
+  "phone": "+919855555555",
+  "age": 35,
+  "gender": "Male",
+  "location": "Bangalore",
+  "occupation": "Data Scientist",
+  "disability_status": "Yes",
+  "Caste": "OBC"
+},
+{
+  "_id": {
+    "$oid": "673a030254c7f4946afde87e"
+  },
+  "name": "Priya Patel",
+  "email": "priya.patel@example.com",
+  "phone": "+919944444444",
+  "age": 28,
+  "gender": "Female",
+  "location": "Ahmedabad",
+  "occupation": "Doctor",
+  "disability_status": "No",
+  "Caste": "General"
+},
+{
+  "_id": {
+    "$oid": "673a030254c7f4946afde87f"
+  },
+  "name": "Amit Singh",
+  "email": "amit.singh@example.com",
+  "phone": "+919999999999",
+  "age": 40,
+  "gender": "Male",
+  "location": "Chennai",
+  "occupation": "Entrepreneur",
+  "disability_status": "No",
+  "Caste": "SC"
+},
+{
+  "_id": {
+    "$oid": "673a030254c7f4946afde880"
+  },
+  "name": "Rita Gupta",
+  "email": "rita.gupta@example.com",
+  "phone": "+919933333333",
+  "age": 32,
+  "gender": "Female",
+  "location": "Kolkata",
+  "occupation": "Journalist",
+  "disability_status": "No",
+  "Caste": "General"
+},
+{
+  "_id": {
+    "$oid": "673a030254c7f4946afde881"
+  },
+  "name": "Sandeep Yadav",
+  "email": "sandeep.yadav@example.com",
+  "phone": "+919922222222",
+  "age": 27,
+  "gender": "Male",
+  "location": "Lucknow",
+  "occupation": "Civil Engineer",
+  "disability_status": "Yes",
+  "Caste": "OBC"
+},
+{
+  "_id": {
+    "$oid": "673a030254c7f4946afde882"
+  },
+  "name": "Anjali Sharma",
+  "email": "anjali.sharma@example.com",
+  "phone": "+919911111111",
+  "age": 24,
+  "gender": "Female",
+  "location": "Noida",
+  "occupation": "Graphic Designer",
+  "disability_status": "No",
+  "Caste": "General"
+},
+{
+  "_id": {
+    "$oid": "673a030254c7f4946afde883"
+  },
+  "name": "Vikram Singh",
+  "email": "vikram.singh@example.com",
+  "phone": "+919955555555",
+  "age": 38,
+  "gender": "Male",
+  "location": "Pune",
+  "occupation": "HR Manager",
+  "disability_status": "No",
+  "Caste": "SC"
+},
+{
+  "_id": {
+    "$oid": "673a030254c7f4946afde884"
+  },
+  "name": "Seema Rani",
+  "email": "seema.rani@example.com",
+  "phone": "+919877777777",
+  "age": 33,
+  "gender": "Female",
+  "location": "Jaipur",
+  "occupation": "Fashion Designer",
+  "disability_status": "No",
+  "Caste": "General"
+}]

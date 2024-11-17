@@ -1,0 +1,400 @@
+[{
+  "_id": {
+    "$oid": "673a01921c94c47d22fe838c"
+  },
+  "name": "National Fellowship for Higher Education of ST Students",
+  "description": "Eligibility criteria and details of the scheme.",
+  "eligibility_criteria": {
+    "age_min": 20,
+    "age_max": 40,
+    "income_max": 500000,
+    "location": "India",
+    "gender": "Not specified"
+  },
+  "disability_status": "Not specified",
+  "Caste": "Scheduled Tribe"
+},
+{
+  "_id": {
+    "$oid": "673a01921c94c47d22fe838d"
+  },
+  "name": "PM CARES for Children Scheme",
+  "description": "Eligibility criteria and details of the scheme.",
+  "eligibility_criteria": {
+    "age_min": null,
+    "age_max": 18,
+    "income_max": null,
+    "location": "India",
+    "gender": "Not specified"
+  },
+  "disability_status": "Not specified",
+  "Caste": "Not specified"
+},
+{
+  "_id": {
+    "$oid": "673a01921c94c47d22fe838e"
+  },
+  "name": "Financial Assistance for the Purchase of Fire Protection Equipment for Fishermen",
+  "description": "Eligibility criteria and details of the scheme.",
+  "eligibility_criteria": {
+    "age_min": null,
+    "age_max": null,
+    "income_max": null,
+    "location": "Goa",
+    "gender": "Not specified"
+  },
+  "disability_status": "Not specified",
+  "Caste": "Fishermen Community"
+},
+{
+  "_id": {
+    "$oid": "673a01921c94c47d22fe8390"
+  },
+  "name": "Assistance for the Purchase of High-Quality Seeds for Farmers",
+  "description": "Eligibility criteria and details of the scheme.",
+  "eligibility_criteria": {
+    "age_min": null,
+    "age_max": null,
+    "income_max": null,
+    "location": "Kerala",
+    "gender": "Not specified"
+  },
+  "disability_status": "Not specified",
+  "Caste": "Not specified"
+},
+{
+  "_id": {
+    "$oid": "673a01921c94c47d22fe8391"
+  },
+  "name": "Support for the Construction of Work Sheds for Women Entrepreneurs",
+  "description": "Eligibility criteria and details of the scheme.",
+  "eligibility_criteria": {
+    "age_min": null,
+    "age_max": null,
+    "income_max": null,
+    "location": "Madhya Pradesh",
+    "gender": "Female"
+  },
+  "disability_status": "Not specified",
+  "Caste": "Not specified"
+},
+{
+  "_id": {
+    "$oid": "673a01921c94c47d22fe8392"
+  },
+  "name": "National Award for Excellence in Environmental Education",
+  "description": "Eligibility criteria and details of the scheme.",
+  "eligibility_criteria": {
+    "age_min": null,
+    "age_max": null,
+    "income_max": null,
+    "location": "India",
+    "gender": "Not specified"
+  },
+  "disability_status": "Not specified",
+  "Caste": "Not specified"
+},
+{
+  "_id": {
+    "$oid": "673a01921c94c47d22fe8393"
+  },
+  "name": "Financial Assistance for the Education of Girls in Rural Areas",
+  "description": "Eligibility criteria and details of the scheme.",
+  "eligibility_criteria": {
+    "age_min": null,
+    "age_max": null,
+    "income_max": null,
+    "location": "Rural Areas",
+    "gender": "Female"
+  },
+  "disability_status": "Not specified",
+  "Caste": "Not specified"
+},
+{
+  "_id": {
+    "$oid": "673a01921c94c47d22fe8394"
+  },
+  "name": "Research Grant for Young Scholars",
+  "description": "Eligibility criteria and details of the scheme.",
+  "eligibility_criteria": {
+    "age_min": 25,
+    "age_max": 40,
+    "income_max": null,
+    "location": "India",
+    "gender": "Not specified"
+  },
+  "disability_status": "Not specified",
+  "Caste": "Not specified"
+},
+{
+  "_id": {
+    "$oid": "673a01921c94c47d22fe8395"
+  },
+  "name": "Mahatma Gandhi National Rural Employment Guarantee Scheme",
+  "description": "Eligibility criteria and details of the scheme.",
+  "eligibility_criteria": {
+    "age_min": null,
+    "age_max": null,
+    "income_max": null,
+    "location": "Rural India",
+    "gender": "Not specified"
+  },
+  "disability_status": "Not specified",
+  "Caste": "Not specified"
+},
+{
+  "_id": {
+    "$oid": "673a01921c94c47d22fe8396"
+  },
+  "name": "PMAY- PM Awas Yojana",
+  "description": "Eligibility criteria and details of the scheme.",
+  "eligibility_criteria": {
+    "age_min": 18,
+    "age_max": null,
+    "income_max": 300000,
+    "location": "India",
+    "gender": "Not specified"
+  },
+  "disability_status": "Not specified",
+  "Caste": "Economically Weaker Section"
+},
+{
+  "_id": {
+    "$oid": "673a01921c94c47d22fe8398"
+  },
+  "name": "Pension Scheme for Senior Citizens in Himachal Pradesh",
+  "description": "Eligibility criteria and details of the scheme.",
+  "eligibility_criteria": {
+    "age_min": 60,
+    "age_max": null,
+    "income_max": null,
+    "location": "Himachal Pradesh",
+    "gender": "Not specified"
+  },
+  "disability_status": "Not specified",
+  "Caste": "Not specified"
+},
+{
+  "_id": {
+    "$oid": "673a01921c94c47d22fe8399"
+  },
+  "name": "Financial Assistance for the Improvement of Fishermen's Livelihood",
+  "description": "Eligibility criteria and details of the scheme.",
+  "eligibility_criteria": {
+    "age_min": null,
+    "age_max": null,
+    "income_max": null,
+    "location": "Goa",
+    "gender": "Not specified"
+  },
+  "disability_status": "Not specified",
+  "Caste": "Fishermen Community"
+},
+{
+  "_id": {
+    "$oid": "673a01921c94c47d22fe839a"
+  },
+  "name": "Junior Research Fellowship (JRF) and Research Associateship (RA) For Foreign Nationals",
+  "description": "Eligibility criteria and details of the scheme.",
+  "eligibility_criteria": {
+    "age_min": 35,
+    "age_max": 40,
+    "income_max": null,
+    "location": "India",
+    "gender": "Not specified"
+  },
+  "disability_status": "Not specified",
+  "Caste": "Not specified"
+},
+{
+  "_id": {
+    "$oid": "673a01921c94c47d22fe839b"
+  },
+  "name": "Industry Linked Biotechnology Research Scheme",
+  "description": "Eligibility criteria and details of the scheme.",
+  "eligibility_criteria": {
+    "age_min": null,
+    "age_max": null,
+    "income_max": null,
+    "location": "India",
+    "gender": "Not specified"
+  },
+  "disability_status": "Not specified",
+  "Caste": "Not specified"
+},
+{
+  "_id": {
+    "$oid": "673a01921c94c47d22fe839c"
+  },
+  "name": "Financial Assistance for the Purchase of Lifejackets and Lifebuoys for Fishermen",
+  "description": "Eligibility criteria and details of the scheme.",
+  "eligibility_criteria": {
+    "age_min": null,
+    "age_max": null,
+    "income_max": null,
+    "location": "Goa",
+    "gender": "Not specified"
+  },
+  "disability_status": "Not specified",
+  "Caste": "Not specified"
+},
+{
+  "_id": {
+    "$oid": "673a01921c94c47d22fe839d"
+  },
+  "name": "Dr. D.S. Kothari Post Doctoral Fellowships In Sciences",
+  "description": "Eligibility criteria and details of the scheme.",
+  "eligibility_criteria": {
+    "age_min": 35,
+    "age_max": null,
+    "income_max": null,
+    "location": "India",
+    "gender": "Not specified"
+  },
+  "disability_status": "Not specified",
+  "Caste": "Not specified"
+},
+{
+  "_id": {
+    "$oid": "673a01921c94c47d22fe839e"
+  },
+  "name": "Coffee Development Programme in North Eastern Region: Quality Upgradation / Certification: Support for Eco-Certification / Organic Certification",
+  "description": "Eligibility criteria and details of the scheme.",
+  "eligibility_criteria": {
+    "age_min": null,
+    "age_max": null,
+    "income_max": null,
+    "location": "North Eastern Region",
+    "gender": "Not specified"
+  },
+  "disability_status": "Not specified",
+  "Caste": "Not specified"
+},
+{
+  "_id": {
+    "$oid": "673a01921c94c47d22fe839f"
+  },
+  "name": "NSAP - Indira Gandhi National Old Age Pension Scheme",
+  "description": "Eligibility criteria and details of the scheme.",
+  "eligibility_criteria": {
+    "age_min": 60,
+    "age_max": null,
+    "income_max": null,
+    "location": "India",
+    "gender": "Not specified"
+  },
+  "disability_status": "Not specified",
+  "Caste": "Below Poverty Line"
+},
+{
+  "_id": {
+    "$oid": "673a01921c94c47d22fe83a0"
+  },
+  "name": "Shram Kalyan Shaikshanik Chatravriti Yojana",
+  "description": "Eligibility criteria and details of the scheme.",
+  "eligibility_criteria": {
+    "age_min": null,
+    "age_max": null,
+    "income_max": null,
+    "location": "Not specified",
+    "gender": "Not specified"
+  },
+  "disability_status": "Not specified",
+  "Caste": "Not specified"
+},
+{
+  "_id": {
+    "$oid": "673a01921c94c47d22fe83a1"
+  },
+  "name": "Jai Johar (Old Age Pension) Scheme",
+  "description": "Eligibility criteria and details of the scheme.",
+  "eligibility_criteria": {
+    "age_min": 60,
+    "age_max": null,
+    "income_max": null,
+    "location": "West Bengal",
+    "gender": "Not specified"
+  },
+  "disability_status": "Not specified",
+  "Caste": "Scheduled Tribe"
+},
+{
+  "_id": {
+    "$oid": "673a01921c94c47d22fe83a3"
+  },
+  "name": "Subsidy for the Purchase of Fiber-reinforced Plastic Cattamaran/ Vallam/ Wooden Nava/ Marine Plywood Canoe with Nets",
+  "description": "Eligibility criteria and details of the scheme.",
+  "eligibility_criteria": {
+    "age_min": 23,
+    "age_max": 60,
+    "income_max": null,
+    "location": "Puducherry",
+    "gender": "Not specified"
+  },
+  "disability_status": "Not specified",
+  "Caste": "Fishermen Community or Professionally Engaged in Fishing/Fish Trade"
+},
+{
+  "_id": {
+    "$oid": "673a01921c94c47d22fe83a4"
+  },
+  "name": "Goa Village & Municipal Child Committee Grants And Awards Scheme",
+  "description": "Eligibility criteria and details of the scheme.",
+  "eligibility_criteria": {
+    "age_min": null,
+    "age_max": null,
+    "income_max": null,
+    "location": "Goa",
+    "gender": "Not specified"
+  },
+  "disability_status": "Not specified",
+  "Caste": "Not specified"
+},
+{
+  "_id": {
+    "$oid": "673a01921c94c47d22fe83a5"
+  },
+  "name": "Scholarship For Transgender Students",
+  "description": "Eligibility criteria and details of the scheme.",
+  "eligibility_criteria": {
+    "age_min": 7,
+    "age_max": null,
+    "income_max": null,
+    "location": "Kerala",
+    "gender": "Transgender"
+  },
+  "disability_status": "Not specified",
+  "Caste": "Not specified"
+},
+{
+  "_id": {
+    "$oid": "673a01921c94c47d22fe83a6"
+  },
+  "name": "Junior Research Fellowship",
+  "description": "Eligibility criteria and details of the scheme.",
+  "eligibility_criteria": {
+    "age_min": null,
+    "age_max": 28,
+    "income_max": null,
+    "location": "India",
+    "gender": "Not specified"
+  },
+  "disability_status": "Not specified",
+  "Caste": "Not specified"
+},
+{
+  "_id": {
+    "$oid": "673a01921c94c47d22fe83a7"
+  },
+  "name": "Indira Gandhi National Old Age Pension Scheme - Sikkim",
+  "description": "Eligibility criteria and details of the scheme.",
+  "eligibility_criteria": {
+    "age_min": 60,
+    "age_max": null,
+    "income_max": null,
+    "location": "Sikkim",
+    "gender": "Not specified"
+  },
+  "disability_status": "Not specified",
+  "Caste": "Below Poverty Line"
+}]
