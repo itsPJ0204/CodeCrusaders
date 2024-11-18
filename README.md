@@ -8,11 +8,7 @@ This AI-driven platform is designed to streamline access to government schemes a
 
 To run this project, you need to install the following dependencies: **Flask** for building the web application (`pip install Flask`), **pdf2image** to convert PDF files into images (`pip install pdf2image`), **Pillow** (PIL Fork) for image manipulation (`pip install Pillow`), **easyocr** for Optical Character Recognition (OCR) to extract text from images (`pip install easyocr`), **NumPy** for numerical computations (`pip install numpy`), and **OpenCV** for computer vision tasks (`pip install opencv-python`). If you're on Windows, you'll also need to install **Poppler** for `pdf2image`. To install all the required libraries, you can run `pip install -r requirements.txt` after cloning the repository.
 
-### Milestones Achieved
-
-- Developed an **Aadhaar Verifier Website** that validates the authenticity of Aadhaar cards, helping to detect fraudulent uploads. If the Aadhaar card is verified as genuine, the data extracted from it can be securely stored in a database. This data is then utilized to suggest personalized government schemes based on the individual's details, enhancing the user experience and streamlining the process of accessing relevant benefits.
-
-  ### Eligibility Checker Application:
+### Eligibility Checker Application:
 
 To run this *Eligibility Checker* project, you need to install the following dependencies:  
 - *Flask* for building the web application (pip install Flask)  
@@ -27,10 +23,6 @@ You can install all the required libraries by running the following command afte
 
 bash
 pip install -r requirements.txt
-
-
-### Milestones Achieved:
-I have developed an *Eligibility Checker Script* that evaluates a user's eligibility for various government schemes based on their profile data. This application utilizes machine learning models to predict and recommend relevant schemes by comparing user data with pre-loaded scheme criteria. Users can fill out a form, submit their details, and the system will return the schemes they qualify for.
 
 ### Steps to Use the Eligibility Checker:
 
@@ -68,6 +60,11 @@ I have developed an *Eligibility Checker Script* that evaluates a user's eligibi
    After submitting the form, the system will process the data and display the schemes you are eligible for based on your profile.
 
 This *Eligibility Checker* provides a user-friendly way to streamline access to government schemes, making it easier for individuals to discover and apply for benefits they are qualified for.
+
+### Milestones Achieved
+
+- Developed an **Aadhaar Verifier Website** that validates the authenticity of Aadhaar cards, helping to detect fraudulent uploads. If the Aadhaar card is verified as genuine, the data extracted from it can be securely stored in a database. This data is then utilized to suggest personalized government schemes based on the individual's details, enhancing the user experience and streamlining the process of accessing relevant benefits.
+- We have developed an *Eligibility Checker Script* that evaluates a user's eligibility for various government schemes based on their profile data. This application utilizes machine learning models to predict and recommend relevant schemes by comparing user data with pre-loaded scheme criteria. Users can fill out a form, submit their details, and the system will return the schemes they qualify for.
 
 ### Features We are Working on
 
