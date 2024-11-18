@@ -79,7 +79,7 @@ This *Eligibility Checker* provides a user-friendly way to streamline access to 
 
 ### **3. Document Verification**
    - **Objective:** Automatically verify uploaded documents for correctness and completeness.
-   - **How:** The platform utilizes **Tesseract OCR** or similar technology to scan and validate the authenticity of documents, reducing errors and speeding up the verification process.
+   - **How:** The platform utilizes **EasyOCR** to scan and validate the authenticity of documents, reducing errors and speeding up the verification process.
 
 ### **4. Personalized Dashboard**
    - **Objective:** Provide users with a centralized location to manage their applications and track the status of their schemes.
