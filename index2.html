@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aadhaar Verifier</title>
+</head>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;  
+        background-color: #dbdbff;
+        flex-direction: column;
+    }
+
+    header {
+        display: flex;
+        justify-content: center;  
+        align-items: center;      
+        width: 100%;              
+        padding: 20px 0;          
+    }
+
+    header h1 {
+        margin: 0; 
+        font-size: 2rem; 
+    }
+
+    .container {
+        display: flex;
+        justify-content: space-between;
+        gap: 20px;
+        text-align: center;
+        background: white;
+        padding: 20px;
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        width: 100%;
+        max-width: 1200px;
+    }
+
+    .info-box
+    {
+        background: #f6c08f;
+        padding: 20px;
+        border-radius: 8px;
+        box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+        width: 30%;
+        text-align: left;
+    }
+    .upload-box
+    {
+        background: #f9f9f9;
+        padding: 20px;
+        border-radius: 8px;
+        box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+        width: 30%;
+        text-align: left;
+    }
+    .verification-result-box {
+        background: #6ef195;
+        padding: 20px;
+        border-radius: 8px;
+        box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+        width: 30%;
+        text-align: left;
+    }
+
+    form {
+        margin-bottom: 20px;
+    }
+
+    input[type="file"] {
+        margin: 10px 0;
+    }
+
+    button {
+        padding: 10px 20px;
+        background: #007bff;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+
+    button:hover {
+        background: #0056b3;
+    }
+
+    pre {
+        background: #f8f9fa;
+        padding: 10px;
+        border-radius: 5px;
+        overflow-x: auto;
+    }
+</style>
+
+<body>
+    <header>
+        <h1>Aadhaar Card Verifier</h1>
+    </header>
+
+    <div class="container">
+        <div class="info-box">
+            <h3>How It Works?</h3>
+            <p>Welcome to the Aadhaar Card Verifier, an easy-to-use tool that allows you to check the validity of your Aadhaar Card and extract important information such as your Name, Date of Birth (DOB), and Aadhaar Number. Simply upload a PDF, JPG, or PNG file of your Aadhaar card, click the "Verify" button, and within a few seconds, you will receive the results.</p>
+            <p><strong>Key Features:</strong></p>
+            <ul>
+                <li>Aadhaar Number Validation using the Verhoeff algorithm.</li>
+                <li>Information Extraction: Name, DOB, and Aadhaar Number.</li>
+                <li>File Recommendations: Upload the highest quality document possible for best results.</li>
+            </ul>
+        </div>
+
+        <div class="upload-box">
+            <h3>Upload Your Aadhaar Card</h3>
+            <form action="/verify" method="POST" enctype="multipart/form-data">
+                <label for="document">Upload Aadhaar Card:</label>
+                <input type="file" name="document" required>
+                <button type="submit">Verify</button>
+            </form>
+        </div>
+
+        <div class="verification-result-box">
+            <h3>Verification Result</h3>
+            <p><strong>Result:</strong> {{ result }}</p>
+            <p><strong>Name:</strong> {{ name }}</p>
+            <p><strong>DOB:</strong> {{ dob }}</p>
+            <p><strong>Aadhaar Number:</strong> {{ aadhar_number }}</p>
+        </div>
+    </div>
+
+</body>
+</html>
