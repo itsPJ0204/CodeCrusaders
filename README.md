@@ -21,7 +21,6 @@ To run this *Eligibility Checker* project, you need to install the following dep
 
 You can install all the required libraries by running the following command after cloning the repository:
 
-bash
 pip install -r requirements.txt
 
 ### Steps to Use the Eligibility Checker:
