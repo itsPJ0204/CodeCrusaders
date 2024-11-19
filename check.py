@@ -4,12 +4,11 @@ from eligibility_checker import check_eligibility
 
 app = Flask(__name__)
 
-# MongoDB connection
 client = pymongo.MongoClient("mongodb://localhost:27017/")
-user_db = client["userDB"]  # Updated to userDB
-scheme_db = client["schemeDB"]  # Updated to schemeDB
-users_collection = user_db["users"]  # Updated to users collection
-schemes_collection = scheme_db["schemes"]  # Updated to schemes collection
+user_db = client["userDB"]
+scheme_db = client["schemeDB"]
+users_collection = user_db["users"]
+schemes_collection = scheme_db["schemes"]
 
 @app.route('/')
 def index():
@@ -30,13 +29,8 @@ def submit_form():
         'income': int(request.form.get('income'))
     }
 
-    # Call the eligibility checker function
     eligible_schemes = check_eligibility(user_data)
-
-    # Debugging: Print the eligible schemes to the console
     print("Eligible Schemes:", eligible_schemes)
-
-    # Render template with schemes and user data
     return render_template('index.html', schemes=eligible_schemes, user=user_data)
 
 if __name__ == '__main__':
